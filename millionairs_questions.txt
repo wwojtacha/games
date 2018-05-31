@@ -1,0 +1,12 @@
+Jaka jest stolica Polski?;Warszawa;Poznań;Janikowo;Kraków;0;1
+Jaka jest stolica Francji?;Warszawa;Paryż;Janikowo;Kraków;1;1
+Jaka jest stolica Belgii?;Pcim;Poznań;Bruksela;Kraków;2;1
+Lekarz leczący zęby nazywa się...;Logopeda;Dentysta;Weterynarz;Laryngolog;1;2
+Która z planet ma pierścienie?;Ziemia;Pluton;Saturn;Neptun;2;2
+Która z kolei planetą od słońca jest Ziemia?;1;3;4;5;1;2
+Jak nazywa się najsłynniejszy Praski most?;Piotra;Stefana;Ludwika;Karola;3;2
+Rybą nie jest:;Świnka;Rozpiór;Krasnopiórka;Kraska;3;3
+Skąd pochodzi Conan Barbarzyńca?;z Cimerii;z Wyziny;z Himerii;z Niziny;0;3
+Który aktor urodził się w roku opatentowania kinematografu braci Lumiere?;Rudolph Valentino;Humphrey Bogart;Charlie Chaplin;Fred Astaire;0;3
+Kto był nadwornym malarzem króla Filip IV Habsburga?;Marcello Bacciarelli;Jan van Eyck;Diego Velasquez;Jacques-Louis David;1;4
+Likier maraskino produkuje się z maraski, czyli odmiany:;Wiśni;Jabłoni;Gruszy;Figi;0;4
